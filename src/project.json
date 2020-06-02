@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Team Generator",
+    "image": "https://jngo2013.github.io/HW-Portfolio/assets/images/teamGenerator.png",
+    "description": "An application to generate a random password.",
+    "tryLink": "https://jngo2013.github.io/HW_TeamGenerator/",
+    "repository":  "https://github.com/jngo2013/HW_TeamGenerator"
+  },
+  {
+    "id": 2,
+    "name": "Note Taker",
+    "image": "https://jngo2013.github.io/HW-Portfolio/assets/images/noteTaker.png",
+    "description": "An application to generate a random password.",
+    "tryLink": "https://still-tundra-59801.herokuapp.com/",
+    "repository":  "https://github.com/jngo2013/HW_NoteTaker"
+  },
+  {
+    "id": 3,
+    "name": "Pet Adoption",
+    "image": "https://jngo2013.github.io/HW-Portfolio/assets/images/petAdoption.jpg",
+    "description": "An application to generate a random password.",
+    "tryLink": "https://guillermo-martin.github.io/homework3/",
+    "repository":  "https://github.com/Guillermo-Martin/project1"
+  },
+  {
+    "id": 4,
+    "name": "Employee Management",
+    "image": "https://jngo2013.github.io/HW-Portfolio/assets/images/employeeManagement.png",
+    "description": "An application to generate a random password.",
+    "tryLink": "https://guillermo-martin.github.io/project1/",
+    "repository":  "https://github.com/Guillermo-Martin/homework3"
+  },
+  {
+    "id": 5,
+    "name": "Blog Site",
+    "image": "https://jngo2013.github.io/HW-Portfolio/assets/images/blogSite.png",
+    "description": "An application to generate a random password.",
+    "tryLink": "https://project02blog.herokuapp.com/",
+    "repository":  "https://github.com/Kerry-Jr/Project02"
+  },
+  {
+    "id": 6,
+    "name": "Fitness Tracker",
+    "image": "https://jngo2013.github.io/HW-Portfolio/assets/images/fitnessTracker.png",
+    "description": "An application to generate a random password.",
+    "tryLink": "https://floating-retreat-91249.herokuapp.com/",
+    "repository":  "https://github.com/jngo2013/fitnessTrackerHW"
+  }
+]
