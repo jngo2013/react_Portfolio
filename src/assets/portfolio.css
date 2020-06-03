@@ -1,0 +1,19 @@
+  
+.card {
+  min-height: 500px;
+  width: 18rem;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.card-img-top {
+  min-height: 250px;
+}
+
+.btn {
+  margin-top: auto;
+}

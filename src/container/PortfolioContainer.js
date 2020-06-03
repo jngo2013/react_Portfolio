@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import Portfolio from '../../pages/Portfolio';
-import projects from '../../projects.json';
-import './portfolioContainer.css';
+import Portfolio from '../component/Portfolio';
+import projects from '../project.json';
+import './portfolioContainer.css'
 class PortfolioContainer extends Component {
   // keep track of project data
   state = {
@@ -23,7 +23,6 @@ class PortfolioContainer extends Component {
     );
     return(
         <div className='flex-container'>
-          {/* render the newProjects array */}
           {newProjectsArr}
         </div>
     );

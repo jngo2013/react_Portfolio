@@ -2,9 +2,9 @@ import React from 'react';
 
 function Contact() {
   return(
-    <div>
+    <div >
       <div className="container contact-form">
-        <div className="col-lg-6 col-md-6 col-sm-6">
+        <div className="col-lg-3 col-md-6 col-sm-12">
           <section>
             <h1 className="display-4"> Contact</h1>
             <form>

@@ -1,7 +1,8 @@
 import React from 'react';
-
+import '../../assets/portfolio.css'
 function Portfolio(props) {
   return (
+    <div className="col-lg-3 col-md-6 col-sm-12">
     <div>
       <div className="card">
         <img src={props.image} className="card-img-top" alt="..." />
@@ -10,10 +11,11 @@ function Portfolio(props) {
             <p className="card-text">{props.description}</p>
             <p className="card-text">{props.note}</p>
             <div className="">
-              <a href={props.tryLink} className="btn btn-primary" target="blank">Link</a>
-              <a href={props.repository} className="btn btn-primary" target="blank"> Repo</a>
+              <a href={props.tryLink}  target="blank">Link</a>
+              <a href={props.repository} target="blank"> Repo</a>
             </div>
           </div>
+        </div>
       </div>
     </div>
   );  
