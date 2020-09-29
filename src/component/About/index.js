@@ -15,6 +15,8 @@ function About(){
         </p>
         <a href="https://github.com/jngo2013" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={["fab", "github"]} />
         </a>
+        <a href="https://www.linkedin.com/in/jimmyngo95/" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={["fab", "linkedin"]} />
+        </a>
         <p>
         Being a manager has allowed me to constantly grow in many skills such as managing employees, communicating effectively, and solving problems efficiently. I aim to utilize every skill that I have obtained from my previous fields to be of value to the web development community.</p>
       </div>
